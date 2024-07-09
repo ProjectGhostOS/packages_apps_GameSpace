@@ -16,7 +16,6 @@
 package io.chaldeaprjkt.gamespace.widget;
 
 import android.app.ActivityManager;
-import com.android.internal.util.MemInfoReader;
 import android.content.Context;
 import android.os.Handler;
 import android.os.Looper;
